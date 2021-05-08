@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCContainer", "IoCContaine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{C2C60224-0E7A-4830-8836-EFF0DD44379F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{0EAC8ECF-BBAC-4D73-BF62-D5EE4790DC70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C2C60224-0E7A-4830-8836-EFF0DD44379F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2C60224-0E7A-4830-8836-EFF0DD44379F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2C60224-0E7A-4830-8836-EFF0DD44379F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EAC8ECF-BBAC-4D73-BF62-D5EE4790DC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAC8ECF-BBAC-4D73-BF62-D5EE4790DC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAC8ECF-BBAC-4D73-BF62-D5EE4790DC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAC8ECF-BBAC-4D73-BF62-D5EE4790DC70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
