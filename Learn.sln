@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferenceTypes", "V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{7B10E19C-41FC-48FC-9B5F-CFC7FC24D8D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCContainer", "IoCContainer\IoCContainer.csproj", "{07920938-75B3-4C7E-8D79-679168F380DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7B10E19C-41FC-48FC-9B5F-CFC7FC24D8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B10E19C-41FC-48FC-9B5F-CFC7FC24D8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B10E19C-41FC-48FC-9B5F-CFC7FC24D8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07920938-75B3-4C7E-8D79-679168F380DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07920938-75B3-4C7E-8D79-679168F380DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07920938-75B3-4C7E-8D79-679168F380DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07920938-75B3-4C7E-8D79-679168F380DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
