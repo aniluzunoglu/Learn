@@ -12,7 +12,7 @@ namespace AbstractClass
         }
         public abstract void Evaluate();
 
-        public void Save()
+        public virtual void Save()
         {
             Console.WriteLine("Saved");
         }

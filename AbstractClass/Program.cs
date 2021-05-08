@@ -7,9 +7,12 @@ namespace AbstractClass
 
         static void Main(string[] args)
         {
-            ALegislation aLegislation = new ALegislation();
-            aLegislation.Save();
-            aLegislation.Evaluate();
+            //ALegislation aLegislation = new ALegislation();
+            //aLegislation.Save();
+            //aLegislation.Evaluate();
+
+            CLegislation cLegislation = new CLegislation();
+            cLegislation.Save();
             Console.ReadLine();
         }
     }
