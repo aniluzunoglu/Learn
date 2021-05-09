@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{E08EFFA0-E7BF-4A75-A1D7-68E551F5EA87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{E08EFFA0-E7BF-4A75-A1D7-68E551F5EA87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{3EBDDED2-6424-403D-A6CB-8BD9B2620039}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{3EBDDED2-6424-403D-A6CB-8BD9B2620039}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{7B10E19C-41FC-48FC-9B5F-CFC7FC24D8D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{7B10E19C-41FC-48FC-9B5F-CFC7FC24D8D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCContainer", "IoCContainer\IoCContainer.csproj", "{07920938-75B3-4C7E-8D79-679168F380DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IoCContainer", "IoCContainer\IoCContainer.csproj", "{07920938-75B3-4C7E-8D79-679168F380DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{C2C60224-0E7A-4830-8836-EFF0DD44379F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{C2C60224-0E7A-4830-8836-EFF0DD44379F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{0EAC8ECF-BBAC-4D73-BF62-D5EE4790DC70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{0EAC8ECF-BBAC-4D73-BF62-D5EE4790DC70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveChatSignalR", "LiveChatSignalR\LiveChatSignalR.csproj", "{DB3E61B7-E52B-48C3-A989-4E7AAB5968FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0EAC8ECF-BBAC-4D73-BF62-D5EE4790DC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EAC8ECF-BBAC-4D73-BF62-D5EE4790DC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EAC8ECF-BBAC-4D73-BF62-D5EE4790DC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3E61B7-E52B-48C3-A989-4E7AAB5968FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3E61B7-E52B-48C3-A989-4E7AAB5968FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3E61B7-E52B-48C3-A989-4E7AAB5968FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3E61B7-E52B-48C3-A989-4E7AAB5968FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
